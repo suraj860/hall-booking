@@ -1,0 +1,28 @@
+/customer_data
+
+get customer data 
+gives null if no customer is present
+
+
+/create-room
+
+to create a room according to customer need
+data to be sent in body
+// {
+//     "seats" :24000,
+//     "amenities" : "aewedelyr",
+//     "rent" : 850
+//  }
+
+
+/book_room
+
+to book the room
+data to be sent in body
+// {
+//     "room_id" : 1
+//     "customer_name" :"suraj",
+//     "dates" : "10/3/2021" ,
+//     "start_time" : "2.00 am",
+//     "end_time" : "4.00 am", 
+//   }
